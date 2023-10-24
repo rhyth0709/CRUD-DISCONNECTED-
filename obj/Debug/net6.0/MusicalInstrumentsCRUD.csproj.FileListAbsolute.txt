@@ -1,0 +1,44 @@
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.csproj.AssemblyReference.cache
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.AssemblyInfoInputs.cache
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.AssemblyInfo.cs
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.csproj.CoreCompileInputs.cache
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.exe
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.deps.json
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.runtimeconfig.json
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.pdb
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/System.Data.SqlClient.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.csproj.CopyComplete
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/refint/MusicalInstrumentsCRUD.dll
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.pdb
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.genruntimeconfig.cache
+D:/Visual Studio/MusicalInstrumentsCRUD/MusicalInstrumentsCRUD/obj/Debug/net6.0/ref/MusicalInstrumentsCRUD.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.csproj.AssemblyReference.cache
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.AssemblyInfoInputs.cache
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.AssemblyInfo.cs
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.deps.json
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.runtimeconfig.json
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/MusicalInstrumentsCRUD.pdb
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.csproj.CopyComplete
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/refint/MusicalInstrumentsCRUD.dll
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.pdb
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/MusicalInstrumentsCRUD.genruntimeconfig.cache
+/home/coder/project/workspace/MusicalInstrumentsCRUD/obj/Debug/net6.0/ref/MusicalInstrumentsCRUD.dll
